@@ -19,12 +19,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: September 13, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went through the last two sections of FreeCodeCamps Responsive Web Design Lessons and finished the first project the "Tribute Page". I used Seung Sahn for fun after just finishing his book "Dropping Ashes' on the Buddah."
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Feel the site is a bit sloppy and looks rushed, which it was. Hard to keep code clean in small codepen window. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Seung Sahn Tribute Page](https://codepen.io/sonofzappa/pen/bGpKdmd)
+2. [Tribute Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+3. [Started a Twitter for this Challenge] (https://twitter.com/sonofzappa)
