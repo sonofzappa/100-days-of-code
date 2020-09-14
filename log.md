@@ -29,3 +29,28 @@
 1. [Seung Sahn Tribute Page](https://codepen.io/sonofzappa/pen/bGpKdmd)
 2. [Tribute Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 3. [Started a Twitter for this Challenge] (https://twitter.com/sonofzappa)
+
+### Day 2: September 14, 2020
+
+**Today's Progress**: Began the day working on the Free Code Camp Responive Survey challenge. I am going to use this as an oppurtunity to work on an online art workshop project I have been thinking about. Took a while to get the HTMl coded in, but once I did the CSS seemed easy, but I was indecisive on design. I should sketch something out latter and then rework it.
+
+Finished the "Working With API's" section of Colt Steele's WDB. Some of the NPM and and express and request add ons are a bit confusing. The syntax for nodeJS is a bit overwhelming, but it seems to repeat a lot, so it should be easier I gain more experience. 
+
+Some of the big lessons today:
+
+JSON.parse(body) -> changes string into JSON format and is required to use info from JSONs when serving the info.
+
+
+**Thoughts** I Love finally getting some insight into APIs, this seems to be the most leveraged part of development for data, which gives me plenty of new ideas to play with.
+I need to continue to work on my CSS, my block, flexbox and layouts need some more work.
+
+**Link(s) to work**
+1. [Seung Sahn Tribute Page](### Day 1: September 13, 2020
+
+**Today's Progress**: Went through the last two sections of FreeCodeCamps Responsive Web Design Lessons and finished the first project the "Tribute Page". I used Seung Sahn for fun after just finishing his book "Dropping Ashes' on the Buddah."
+
+**Thoughts** Feel the site is a bit sloppy and looks rushed, which it was. Hard to keep code clean in small codepen window. 
+
+**Link(s) to work**
+1. [Survey Page](https://codepen.io/sonofzappa/pen/bGpKdmd)
+2. [Tribute Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
