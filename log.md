@@ -54,3 +54,25 @@ I need to continue to work on my CSS, my block, flexbox and layouts need some mo
 **Link(s) to work**
 1. [Survey Page](https://codepen.io/sonofzappa/pen/bGpKdmd)
 2. [Tribute Page Instructions](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+### Day 3: September 15, 2020
+
+**Today's Progress**:
+Reworked all of the Free Painting workshop survey site. It looks 110% better now! Reworked both the form and the styling. Used a color palette to help inform the colors and it really helped. Still using css and html. Today was mostly css. 
+
+Watched and coded along with the colt Steele’s first section of yelp camp. It’s based on nodeJS. I’m building it on goormide. It’s my first server side project and it’s always a surprise when something posts or redirects correctly. 
+
+Some of the big lessons today:
+Focus on the repeatable bits you’ll have to remember but are struggling with. Ex:
+
+Partials and listener also required apps(?)
+
+App.post and app.get are different requests 
+
+You pass in information as parameters from the app to the html 
+
+**Thoughts** 
+Still have so much to learn and get comfortable with. Seeing huge improvements and leaps in knowledge every day. Can wait to see what I am working on by the end of the week. 
+
+**Link(s) to work**
+1. [Free painting workshop](https://codepen.io/sonofzappa/pen/WNwKjXq)
