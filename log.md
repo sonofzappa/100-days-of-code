@@ -76,3 +76,29 @@ Still have so much to learn and get comfortable with. Seeing huge improvements a
 
 **Link(s) to work**
 1. [Free painting workshop](https://codepen.io/sonofzappa/pen/WNwKjXq)
+
+### Day 4: September 16, 2020
+
+**Today's Progress**:
+Began the FCC challenge for a landing page on for a fake flower shop. I used HTML, CSS and bootstrap to begin the layout which still needs a lot of work, but I should be able to wrap it up tomorrow. 
+Also watched the intro to Databases/ Mongodb on Colt Steeles WDB course. I got frustrated when my server stopped running and I couldn't make my way back in and retrieve what I had been working on. It will only take a 10 minutes to re-do my work, but it was frustrating enough I decided to move over to the FCC project.
+
+**Some of the big lessons today:**
+Databases:
+*A collection of data/ information
+*Has and interface (you can write code to interact with it)
+
+SQL(relational) vs. NoSQL(relational)
+* relational - follows a table structure. a.k.a. flt
+* requires join tables to put together multiple pieces of info.
+* difficult to add new items to data sets since all must be the same structure
+NoSQL(non-relational)
+* info can be nested
+* basically  JSON
+* key-value pairs
+
+**Thoughts** 
+Bootstrap made creating the start of a page much quicker, but also feels like a cop-out. But it is good to keep in practice. I am very curious how all this back end stuff fits together and what I will be able to do with it in the long wrong.
+
+**Link(s) to work**
+1. [Flowershop Code on GitHub](https://github.com/sonofzappa/Flower-Shop-Landing-Page)
