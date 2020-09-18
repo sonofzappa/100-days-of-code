@@ -102,3 +102,19 @@ Bootstrap made creating the start of a page much quicker, but also feels like a 
 
 **Link(s) to work**
 1. [Flowershop Code on GitHub](https://github.com/sonofzappa/Flower-Shop-Landing-Page)
+
+
+### Day 5: September 17, 2020
+
+**Today's Progress**:
+Worked with HTML, Bootstrap and CSS on the landing page project again. Got Mongo and Mongoose running via WDB. Looking forward to putting it into practice tomorrow.
+
+**Some of the big lessons today:**
+Mongoose is a way to store databases on a server mongo is the language used to create it.
+
+**Thoughts** 
+Still having some trouble getting everything to align as I predict when I go to style elements. This is by far my weak suit for now.
+
+**Link(s) to work**
+1. [Flowershop Code on GitHub](https://github.com/sonofzappa/Flower-Shop-Landing-Page)
+
