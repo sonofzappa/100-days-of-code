@@ -130,5 +130,5 @@ Be patient. Check your spelling.
 Need to figure out the listening issue on the server. Not sure if it was something on my end or random. 
 
 **Link(s) to work**
-1. [Flowershop Code on GitHub](https://github.com/sonofzappa/Flower-Shop-Landing-Page)
+1. [Flowershop Code on GitHub](https://codepen.io/sonofzappa/pen/vYGVOLg)
 
