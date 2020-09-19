@@ -118,3 +118,17 @@ Still having some trouble getting everything to align as I predict when I go to 
 **Link(s) to work**
 1. [Flowershop Code on GitHub](https://github.com/sonofzappa/Flower-Shop-Landing-Page)
 
+### Day 6: September 18, 2020
+
+**Today's Progress**:
+Finished the flower shop on code pen and got it approved. Worked on Yelp Camp MongoDB.
+
+**Some of the big lessons today:**
+Be patient. Check your spelling.
+
+**Thoughts** 
+Need to figure out the listening issue on the server. Not sure if it was something on my end or random. 
+
+**Link(s) to work**
+1. [Flowershop Code on GitHub](https://github.com/sonofzappa/Flower-Shop-Landing-Page)
+
