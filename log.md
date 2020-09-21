@@ -132,3 +132,31 @@ Need to figure out the listening issue on the server. Not sure if it was somethi
 **Link(s) to work**
 1. [Flowershop Code on GitHub](https://codepen.io/sonofzappa/pen/vYGVOLg)
 
+### Day 7&8: September 19-20, 2020
+
+**Today's Progress**:
+Did about 40 Javascript questions on FCC and got the first route set up for Colt Steele's RESTful Blog app.
+
+**Some of the big lessons today:**
+Be patient. Check your spelling.
+
+**Thoughts** 
+Focus on what you are doing. Little spelling errors can be easy to miss and hard to find.
+**Link(s) to work**
+1. [Flowershop Code on GitHub](https://codepen.io/sonofzappa/pen/vYGVOLg)
+
+### Day 9: September 21, 2020
+
+**Today's Progress**:
+Finished the Technical Document Project on FCC. 
+
+**Some of the big lessons today:**
+You can do most of the extra stuff bootstrap etc. offers with plain css. It was good to use just plain html and css again on this project. It helped reenforce some of those basics.
+
+**Thoughts** 
+Need to figure out the listening issue on the server. Not sure if it was something on my end or random. 
+
+**Link(s) to work**
+1. [Technical Documentation Page Demo](https://codepen.io/sonofzappa/pen/rNeQvvd)
+
+
