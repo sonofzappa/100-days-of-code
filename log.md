@@ -148,7 +148,7 @@ Focus on what you are doing. Little spelling errors can be easy to miss and hard
 ### Day 9: September 21, 2020
 
 **Today's Progress**:
-Finished the Technical Document Project on FCC. 
+Finished the Technical Document Project on FCC. Got front end Cert!
 
 **Some of the big lessons today:**
 You can do most of the extra stuff bootstrap etc. offers with plain css. It was good to use just plain html and css again on this project. It helped reenforce some of those basics.
@@ -158,5 +158,37 @@ Need to figure out the listening issue on the server. Not sure if it was somethi
 
 **Link(s) to work**
 1. [Technical Documentation Page Demo](https://codepen.io/sonofzappa/pen/rNeQvvd)
+
+### Day 10: September 22, 2020
+
+**Today's Progress**:
+Colt Steele's RESTFul Blog App
+
+**Some of the big lessons today:**
+Learned a ton on restful routing and setting up routes in addition to crud. Really seeing how things link together!
+
+**Thoughts** 
+Practice makes perfect, routes are making more sense as I see them. 
+
+**Link(s) to work**
+1. [Gif Demo on TWTR](https://twitter.com/sonofzappa/status/1308500009806188549)
+
+### Day 11: September 23, 2020
+
+**Today's Progress**:
+Colt Steele's Data Associations
+
+**Some of the big lessons today:**
+Learned how to connect different objects to different users. 
+
+One to one.
+One to many.
+Many to many. 
+
+**Thoughts** 
+A bit dry, but it is necassary to understand. I hope to get more when  we use it in a project. 
+Practice makes perfect, routes are making more sense as I see them. 
+
+**Link(s) to work**
 
 
